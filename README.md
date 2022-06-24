@@ -1,1 +1,1 @@
-# UNTUK CONNECT KE DATABASE MASIH DI HARDCODED, DAPAT DIGANTI DI ./database/db.go# Assignment2.Hacktiv8
+
